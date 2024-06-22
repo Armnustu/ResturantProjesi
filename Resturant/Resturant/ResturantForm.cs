@@ -396,12 +396,7 @@ namespace Resturant
         private void button6_Click_1(object sender, EventArgs e)
         {
 
-            //SqlConnection con = new SqlConnection("Server=DESKTOP-68KIO66\\SQLEXPRESS;Database=Resturant;Integrated Security=true;");
-            //con.Open();
-            //SqlCommand sil = new SqlCommand("DELETE FROM Masalar WHERE MasaID=" + listView1.SelectedItems[0].Index + "", con);
-            //sil.ExecuteNonQuery();
-            //con.Close();
-            //MessageBox.Show("silindi");
+           
         }
         private void button7_Click_1(object sender, EventArgs e)
         {
