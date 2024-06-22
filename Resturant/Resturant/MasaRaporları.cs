@@ -73,13 +73,7 @@ namespace Resturant
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            // TODO: Bu kod satırı 'resturantDataSet.Masalar' tablosuna veri yükler. Bunu gerektiği şekilde taşıyabilir, veya kaldırabilirsiniz.
-            this.masalarTableAdapter.Fill(this.resturantDataSet.Masalar);
-            // TODO: Bu kod satırı 'resturantDataSet.Masalar' tablosuna veri yükler. Bunu gerektiği şekilde taşıyabilir, veya kaldırabilirsiniz.
-            this.masalarTableAdapter.Fill(this.resturantDataSet.Masalar);
             Listgetir();
-
-
         }
 
         private void chart1_Click(object sender, EventArgs e)
