@@ -169,7 +169,7 @@ namespace Resturant
         private void Form1_Load(object sender, EventArgs e)
         {
             
-            this.masalarTableAdapter1.Fill(this.resturantDataSet1.Masalar);           
+                    
             for (int i = 0; i < içecekler.Length; i++)
             {
 
